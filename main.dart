@@ -2,7 +2,7 @@ void main() {
   final mensagens = <String>[
     'Bem-vindas e bem-vindos ao projeto!',
     // ===== EDITE A LINHA ABAIXO (a dupla toda edita ESTA mesma linha) =====
-    'Olá, pessoal! Sejam bem-vindos à nossa equipe.',
+    'Olá, pessoal! Lucas aqui, fiz cagada no ultimo commit',
     // =====================================================================
     'Bons commits para todos.',
   ];
