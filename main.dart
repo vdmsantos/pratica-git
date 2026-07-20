@@ -1,13 +1,10 @@
 void main() {
   final mensagens = <String>[
     'Bem-vindas e bem-vindos ao projeto!',
-<<<<<<< HEAD
-    'Fala galera! Bruno na area.',
-    'Olá, pessoal! Sejam bem-vindos à nossa equipe.',
-=======
+
     'Ola! Aqui é  Arthur, bora codar!',
-    'Olá, pessoal! Sejam bem-vindos à nosso grupo.',
->>>>>>> master
+    'Fala galera! gabriel na area.',
+
     // =====================================================================
     'Bons commits para todos.',
   ];
